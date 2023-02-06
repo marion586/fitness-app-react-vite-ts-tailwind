@@ -29,6 +29,7 @@
     "react-anchor-link-smooth-scroll": "1.0.12",
     "react-dom": "^18.2.0",
     "react-google-autocomplete": "^2.7.1",
+    "react-hook-form": "^7.43.0",
     "react-icons": "^4.7.1",
     "react-places-autocomplete": "^7.3.0",
     "react-redux": "^8.0.5",
